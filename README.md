@@ -9,10 +9,11 @@ Pada form Login ini, terdapat fitur SignUp (untuk menambah user baru), SignIn (u
 ![form_login](https://cloud.githubusercontent.com/assets/22098189/23578768/d665d8c8-0110-11e7-9bcf-fa11b982dbe9.jpg)
 
 #### Form Biodata Siswa
-![form1](https://cloud.githubusercontent.com/assets/22098189/23578835/2438f96c-0112-11e7-9b43-df00a715ed6e.JPG)
-![1](https://cloud.githubusercontent.com/assets/22098189/23578831/23c8c480-0112-11e7-81d3-dd619dc90bf2.JPG)
-![3](https://cloud.githubusercontent.com/assets/22098189/23578832/242a1bc2-0112-11e7-87a6-eedf33f67627.JPG)
-![form4delete](https://cloud.githubusercontent.com/assets/22098189/23578833/242f0196-0112-11e7-8067-5495d5d0ce7c.JPG)
-![form5edit](https://cloud.githubusercontent.com/assets/22098189/23578834/243066f8-0112-11e7-88e8-64e1acea0381.JPG)
+![save](https://cloud.githubusercontent.com/assets/22098189/23578911/ec641cea-0113-11e7-9f91-b117d52d48fc.JPG)
+![clear](https://cloud.githubusercontent.com/assets/22098189/23578912/ec707fa8-0113-11e7-894e-49b44a197619.JPG)
+![deleter](https://cloud.githubusercontent.com/assets/22098189/23578915/ec7bc390-0113-11e7-880f-9fc52fdf73db.JPG)
+![refresh](https://cloud.githubusercontent.com/assets/22098189/23578916/ec7c83e8-0113-11e7-8f8a-231f1b6399d5.JPG)
+![edit](https://cloud.githubusercontent.com/assets/22098189/23578913/ec715784-0113-11e7-9a87-d7272ae0af1c.JPG)
+![final](https://cloud.githubusercontent.com/assets/22098189/23578914/ec75f302-0113-11e7-966e-c540aba610ba.JPG)
 
 ### FRIDA BAHARIZKI / XIRPL4 / 16 / 4716 / SMK TELKOM MALANG
