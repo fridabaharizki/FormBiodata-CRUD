@@ -15,4 +15,4 @@ Pada form Login ini, terdapat fitur SignUp (untuk menambah user baru), SignIn (u
 ![form4delete](https://cloud.githubusercontent.com/assets/22098189/23578833/242f0196-0112-11e7-8067-5495d5d0ce7c.JPG)
 ![form5edit](https://cloud.githubusercontent.com/assets/22098189/23578834/243066f8-0112-11e7-88e8-64e1acea0381.JPG)
 
-** FRIDA BAHARIZKI / XIRPL4 / 16 / 4716 / SMK TELKOM MALANG **
+### FRIDA BAHARIZKI / XIRPL4 / 16 / 4716 / SMK TELKOM MALANG
